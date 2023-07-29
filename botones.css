@@ -22,13 +22,13 @@
     
     padding: 10px 10px;
     
-    display: block;
+    display:block;
     
     }
     
     .menu{
     
-    margin: auto;
+    margin: 25px auto;
     
     width: 800px;
     
@@ -74,5 +74,10 @@
     
      
     
+    }
+
+    .botones{
+        display: flex;
+        justify-content: center;
     }
     
