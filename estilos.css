@@ -108,6 +108,13 @@ body {
     margin: 0 auto;
 }
 
+.contenedorEtica{
+    width: 90%;
+    background-color:rgb(255, 103, 184);
+    padding: 25px 20px;
+    margin: 0 auto;
+
+}
 .titulo{
     margin-top: 6px;
     text-align: center;
@@ -250,4 +257,8 @@ body {
 
 .audioso{
     text-align: center;
+}
+
+.cuadro{
+    padding: 13px 13px;
 }
