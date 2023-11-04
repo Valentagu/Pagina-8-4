@@ -1,3 +1,4 @@
+
 *{
 
     padding: 0px;
@@ -14,7 +15,7 @@
     
     .botones li a{
     
-    background-color: rgb(245, 155, 237);
+   background-color: cornflowerblue;
     
     color: rgb(0, 0, 0);
     
@@ -22,13 +23,13 @@
     
     padding: 10px 10px;
     
-    display:block;
+    display: block;
     
     }
     
     .menu{
     
-    margin: 25px auto;
+    margin: auto;
     
     width: 800px;
     
@@ -50,7 +51,7 @@
     
     .botones li a:hover {
     
-    background-color:rgb(153, 187, 250);
+    background-color: rgb(235, 238, 238);
     
     }
     
@@ -72,12 +73,5 @@
     
     height: 150px;
     
-     
-    
-    }
 
-    .botones{
-        display: flex;
-        justify-content: center;
     }
-    
